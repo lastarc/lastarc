@@ -1,3 +1,1 @@
-- 👋 Hi, I’m Arc
-- 👀 I’m interested in Web Dev, Bot Dev, crawling, etc.
-- 🌱 I’m currently learning C/C++, Java, data structures and algorithms
+
